@@ -1,0 +1,2 @@
+# ELEC-390-Design-and-Development-with-Applied-Data-Science
+ELEC 390 is a course aimed at preparing students for the definition, design, and development of engineering projects and products. It covers topics such as design principles, management techniques, development methodologies, and intellectual property. The course includes the introduction and use of software and tools for design and development.
