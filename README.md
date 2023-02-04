@@ -3,18 +3,19 @@ ELEC 390 is a course aimed at preparing students for the definition, design, and
 
 # This repository includes the following:
 
-Lab 1 : Introduction to Python, Anaconda, Jupyter Notebook, and Git
+# Lab 1 
+- Introduction to Python, Anaconda, Jupyter Notebook, and Git
 
-Lab 2 : Web Scraping with Python
+# Lab 2 : 
+- Web Scraping with Python
 
-Project :  
-
-# Goal
+# Project :  
+- Goal
 The goal of the project is to build a desktop app that can distinguish between ‘walking’ and
 ‘jumping’ with a reasonable accuracy, using the data collected from the accelerometers of a
 smartphone.
 
-# Description
+- Description
 The project involves building a small and simple desktop application that accepts accelerometer
 data (x, y, and z axes) in CSV format, and writes the outputs into a separate CSV file. The output
 CSV file contains the labels (‘walking’ or ‘jumping’) for the corresponding input data. For
