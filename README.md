@@ -3,11 +3,14 @@ ELEC 390 is a course aimed at preparing students for the definition, design, and
 
 # This repository includes the following:
 
-# Lab 1 
-- Introduction to Python, Anaconda, Jupyter Notebook, and Git
+# Lab 1 :
+- Introduction to Python, Anaconda, Jupyter Notebook, and Git.
 
 # Lab 2 : 
-- Web Scraping with Python
+- Web Scraping with Python.
+
+# Lab 3 :
+- Performing queries on the well-known ‘employees’ database.
 
 # Project :  
 - Goal
