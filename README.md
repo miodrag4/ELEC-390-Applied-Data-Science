@@ -12,6 +12,12 @@ ELEC 390 is a course aimed at preparing students for the definition, design, and
 # Lab 3 :
 - Performing queries on the well-known ‘employees’ database.
 
+# Lab 4 :
+- This lab includes 2 main components. First, our goal is to visualize a widely used ‘Heart Disease
+ Dataset’ to get some high-level information about the distribution of the data. Next, we aim to
+ apply PCA and t-SNE on another widely used dataset called the ‘wine quality dataset’, with the
+ foal of performing dimensionality reduction.
+
 # Project :  
 - Goal
 The goal of the project is to build a desktop app that can distinguish between ‘walking’ and
