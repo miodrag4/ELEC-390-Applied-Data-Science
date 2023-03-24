@@ -17,6 +17,11 @@ ELEC 390 is a course aimed at preparing students for the definition, design, and
  Dataset’ to get some high-level information about the distribution of the data. Next, we aim to
  apply PCA and t-SNE on another widely used dataset called the ‘wine quality dataset’, with the
  foal of performing dimensionality reduction.
+ 
+ # Lab 5 :
+ - In the first part, after downloading the noisy version of the ‘Wine
+Quality’ dataset, pre-processing techniques were applied and plotted. In the second part, the noise is removed
+by using mover average filters. Finally, feature extraction was performed on a portion of the MIT-BIH dataset.
 
 # Project :  
 - Goal
